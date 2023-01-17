@@ -1,0 +1,15 @@
+C:\УЧЕБА\Языки программирования\DZ_1\Ex_8\bin\Debug\net7.0\Ex_8.exe
+C:\УЧЕБА\Языки программирования\DZ_1\Ex_8\bin\Debug\net7.0\Ex_8.deps.json
+C:\УЧЕБА\Языки программирования\DZ_1\Ex_8\bin\Debug\net7.0\Ex_8.runtimeconfig.json
+C:\УЧЕБА\Языки программирования\DZ_1\Ex_8\bin\Debug\net7.0\Ex_8.dll
+C:\УЧЕБА\Языки программирования\DZ_1\Ex_8\bin\Debug\net7.0\Ex_8.pdb
+C:\УЧЕБА\Языки программирования\DZ_1\Ex_8\obj\Debug\net7.0\Ex_8.csproj.AssemblyReference.cache
+C:\УЧЕБА\Языки программирования\DZ_1\Ex_8\obj\Debug\net7.0\Ex_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\УЧЕБА\Языки программирования\DZ_1\Ex_8\obj\Debug\net7.0\Ex_8.AssemblyInfoInputs.cache
+C:\УЧЕБА\Языки программирования\DZ_1\Ex_8\obj\Debug\net7.0\Ex_8.AssemblyInfo.cs
+C:\УЧЕБА\Языки программирования\DZ_1\Ex_8\obj\Debug\net7.0\Ex_8.csproj.CoreCompileInputs.cache
+C:\УЧЕБА\Языки программирования\DZ_1\Ex_8\obj\Debug\net7.0\Ex_8.dll
+C:\УЧЕБА\Языки программирования\DZ_1\Ex_8\obj\Debug\net7.0\refint\Ex_8.dll
+C:\УЧЕБА\Языки программирования\DZ_1\Ex_8\obj\Debug\net7.0\Ex_8.pdb
+C:\УЧЕБА\Языки программирования\DZ_1\Ex_8\obj\Debug\net7.0\Ex_8.genruntimeconfig.cache
+C:\УЧЕБА\Языки программирования\DZ_1\Ex_8\obj\Debug\net7.0\ref\Ex_8.dll
